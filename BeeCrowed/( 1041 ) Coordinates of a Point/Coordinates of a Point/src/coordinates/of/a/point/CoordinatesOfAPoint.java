@@ -1,6 +1,6 @@
 package coordinates.of.a.point;
 
-import java.util.Scanner;
+    import java.util.Scanner;
 
 public class CoordinatesOfAPoint {
 
